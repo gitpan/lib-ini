@@ -18,8 +18,7 @@ my %WriteMakefileArgs = (
     "File::Temp" => 0,
     "File::chdir" => 0,
     "Test::More" => 0,
-    "Test::Most" => 0,
-    "lib::ini::testplugin" => 0
+    "Test::Most" => 0
   },
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => "6.30"
@@ -37,7 +36,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

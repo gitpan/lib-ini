@@ -1,6 +1,6 @@
 package lib::ini;
 {
-  $lib::ini::VERSION = '0.001';
+  $lib::ini::VERSION = '0.002';
 }
 
 # ABSTRACT: Plugin-based @INC mangling
@@ -48,7 +48,7 @@ lib::ini - Plugin-based @INC mangling
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 

@@ -1,6 +1,6 @@
 package lib::ini::plugin;
 {
-  $lib::ini::plugin::VERSION = '0.001';
+  $lib::ini::plugin::VERSION = '0.002';
 }
 
 # ABSTRACT: Base class for lib::ini plugins
@@ -26,7 +26,7 @@ lib::ini::plugin - Base class for lib::ini plugins
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 

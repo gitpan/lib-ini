@@ -1,6 +1,6 @@
 package lib::ini::plugin::dir;
 {
-  $lib::ini::plugin::dir::VERSION = '0.001';
+  $lib::ini::plugin::dir::VERSION = '0.002';
 }
 
 # ABSTRACT: Add directories to @INC
@@ -33,7 +33,7 @@ lib::ini::plugin::dir - Add directories to @INC
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 

@@ -2,7 +2,7 @@ NAME
     lib::ini - Plugin-based @INC mangling
 
 VERSION
-    version 0.001
+    version 0.002
 
 AUTHOR
     Peter Shangov <pshangov@yahoo.com>

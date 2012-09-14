@@ -1,6 +1,6 @@
 package Config::INI::Reader::LibIni;
 {
-  $Config::INI::Reader::LibIni::VERSION = '0.001';
+  $Config::INI::Reader::LibIni::VERSION = '0.002';
 }
 
 use strict;
@@ -52,7 +52,7 @@ Config::INI::Reader::LibIni
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 

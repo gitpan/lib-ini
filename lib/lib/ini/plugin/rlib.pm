@@ -1,6 +1,6 @@
 package lib::ini::plugin::rlib;
 {
-  $lib::ini::plugin::rlib::VERSION = '0.001';
+  $lib::ini::plugin::rlib::VERSION = '0.002';
 }
 
 # ABSTRACT: Add './lib' to @INC
@@ -25,7 +25,7 @@ lib::ini::plugin::rlib - Add './lib' to @INC
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 
